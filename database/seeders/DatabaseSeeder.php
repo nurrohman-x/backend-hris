@@ -27,5 +27,8 @@ class DatabaseSeeder extends Seeder
         // Role::factory(5)->create();
         // Resposibility::factory(50)->create();
         // Employe::factory(200)->create();
+        // $this->call([
+        //     UserCompanySeeder::class
+        // ]);
     }
 }
